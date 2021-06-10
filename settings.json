@@ -1,0 +1,12 @@
+{
+    "urls" : [
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400",
+        "www.facebook.com",
+        "www.google.com",
+        "http://127.65.4.8:8080/",
+        "ss.in",
+        "https://www.facebook.com/",
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4000"
+    ],
+    "interval": 60
+    }
